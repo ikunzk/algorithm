@@ -1,2 +1,2 @@
 # algorithm
-This isalgorithm library
+This is a algorithm library
